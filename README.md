@@ -1,7 +1,8 @@
-# 🤖 About me: 
+# Hi there! 👋 I'm Reenad Khan
+ 
 
 
-Looking to make cool new projects 
+Looking to make cool new projects, learning, and collaborating
 
 
 # 💻 Tech Stack:
